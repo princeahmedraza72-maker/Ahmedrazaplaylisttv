@@ -197,6 +197,10 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/BBC-Lifestyle-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",CNN News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Livecnn-abr/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",EXPRESS ENG
+http://103.253.18.58:8000/play/a089
+
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",Pakistan News
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/192H/playlist.m3u8
 
@@ -215,7 +219,8 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/Digital-pak-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",Discover Pakistan
 https://cdn02khi.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ALIEF TV
+http://103.253.18.58:8000/play/a075
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",PTV Bolan
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/194H/playlist.m3u8
@@ -234,6 +239,9 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",ATV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/123M/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",GEO TEZZ
+http://103.253.18.58:8000/play/a065
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",TV One
 https://cdn02khi.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8
@@ -304,16 +312,51 @@ http://103.253.18.58:8000/play/a00l
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", COLORS HD
 http://103.253.18.58:8000/play/a00n
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",SONY HD
 http://103.253.18.58:8000/play/a00f
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", &TV
+http://103.253.18.58:8000/play/a01j
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", Colors rishtey 
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ZEE ANMOL 
+http://103.175.73.12:8080/live/256/256_0.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", STAR BHARAT
+http://103.253.18.58:8000/play/a00u
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", BIG MAGIC 
+http://103.175.73.12:8080/live/13/13_0.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", & PICTURES
+http://103.253.18.58:8000/play/a01i
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ANMOL CINEMA 
 http://103.175.73.12:8080/live/271/master.m3u8
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ANMOL CINEMA 2
+http://103.175.73.12:8080/live/257/257_0.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ZEE ACTION 
+http://103.175.73.12:8080/live/270/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",ZEE ACT DD
+http://103.253.18.58:8000/play/a078
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", STAR MOVIES SE
+http://103.253.18.58:8000/play/a01w
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", STAR MOVIES 
+http://103.253.18.58:8000/play/a01x
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ZING
+http://103.253.18.58:8000/play/a055
 
 
-
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", COLORS CINE 
+http://103.253.18.58:8000/play/a051
 
 
