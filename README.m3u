@@ -312,6 +312,9 @@ http://103.253.18.58:8000/play/a00l
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", COLORS HD
 http://103.253.18.58:8000/play/a00n
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ZEE TV HD
+http://103.253.18.58:8000/play/a01e
+
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",SONY HD
 http://103.253.18.58:8000/play/a00f
 
@@ -358,5 +361,17 @@ http://103.253.18.58:8000/play/a055
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", COLORS CINE 
 http://103.253.18.58:8000/play/a051
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", DISCOVERY HD
+http://103.253.18.58:8000/play/a01r
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", Sony BBC earth 
+http://103.253.18.58:8000/play/a01g
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", NATIONAL GEO
+http://103.253.18.58:8000/play/a01l
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", PLANET FUN
+http://103.253.18.58:8000/play/a098
 
 
