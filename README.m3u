@@ -374,4 +374,65 @@ http://103.253.18.58:8000/play/a01l
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", PLANET FUN
 http://103.253.18.58:8000/play/a098
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", B4U MOVIES
+http://103.175.73.12:8080/live/43/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", B4U KADAK
+http://103.175.73.12:8080/live/44/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", DANGAL
+http://103.175.73.12:8080/live/17/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", DANGAL 2
+http://103.175.73.12:8080/live/18/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", SHEM JOSH
+http://103.175.73.12:8080/live/21/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", MANORANJAN TV
+http://103.175.73.12:8080/live/23/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", QTV
+http://103.175.73.12:8080/live/25/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", GOLDMINES 2
+http://103.175.73.12:8080/live/46/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", GOLDMINES MOVIES
+http://103.175.73.12:8080/live/51/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", GOLDMINES BOLLY
+http://103.175.73.12:8080/live/52/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", GOLDMINES 
+http://103.175.73.12:8080/live/53/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ALL TIME MOVIE 
+http://103.175.73.12:8080/live/54/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", STAR SPORTS FIRST 
+http://103.175.73.12:8080/live/151/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", 9XM
+http://103.175.73.12:8080/live/155/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", B4U MUSIC 
+http://103.175.73.12:8080/live/157/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", MUSIC INDIA
+http://103.175.73.12:8080/live/158/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", E24
+http://103.175.73.12:8080/live/159/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", DD NATIONAL 
+http://103.175.73.12:8080/live/15/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", Anjan tv
+http://103.175.73.12:8080/live/20/master.m3u8
+
+
+
 
