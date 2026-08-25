@@ -310,13 +310,13 @@ http://103.253.18.58:8000/play/a017
 http://103.253.18.58:8000/play/a00l
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", COLORS HD
-http://103.253.18.58:8000/play/a00n
+http://59.103.38.46:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ZEE TV HD
 http://103.253.18.58:8000/play/a01e
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",SONY HD
-http://103.253.18.58:8000/play/a00f
+http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", &TV
 http://103.253.18.58:8000/play/a01j
