@@ -307,7 +307,7 @@ http://103.253.18.58:8000/play/a02u
 http://103.253.18.58:8000/play/a017
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",STAR PLUS HD
-http://103.253.18.58:8000/play/a00l
+http://202.70.146.135:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", COLORS HD
 http://59.103.38.46:8000/play/a00b/index.m3u8
@@ -318,21 +318,32 @@ http://103.253.18.58:8000/play/a01e
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",SONY HD
 http://38.96.178.205/SONYHD/index.m3u8
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", SONY SAB HD
+http://202.70.146.135:8000/play/a025/index.m3u8
+
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", &TV
 http://103.253.18.58:8000/play/a01j
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", Colors rishtey 
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", SONY PAL 
+http://202.70.146.135:8000/play/a0ac/index.m3u8
+
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ZEE ANMOL 
 http://103.175.73.12:8080/live/256/256_0.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", STAR BHARAT
-http://103.253.18.58:8000/play/a00u
-
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", STAR BHARAT 
+http://202.70.146.135:8000/play/a0ar/index.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", BIG MAGIC 
 http://103.175.73.12:8080/live/13/13_0.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", ZEE CINEMA HD 
+http://202.70.146.135:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", & PICTURES
 http://103.253.18.58:8000/play/a01i
