@@ -87,6 +87,11 @@ https://cdn08khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",$-PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", Womans world cup
+https://cdn09khi-n.tamashaweb.com:8087/jazzauth/wac2026-avod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", Hockey Live
+https://cdn04isb-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",$-Geo Super
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v2a1/mono.ts.m3u8
