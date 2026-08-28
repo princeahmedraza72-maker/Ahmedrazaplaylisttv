@@ -81,6 +81,9 @@ https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",Ten Sports
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/157-3M/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed", Pak VS Eng Live
+https://cdn08khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-abr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",$-PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
