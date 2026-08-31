@@ -72,6 +72,9 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/MehranTV-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",PTV Sports
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/189H/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",$PTV Sports
+http://66.102.126.10:8000/play/a04w/index.m3u8
+
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Ahmed",$-A Sports HD
 http://163.61.227.29:8000/play/a03t/index.m3u8
 
